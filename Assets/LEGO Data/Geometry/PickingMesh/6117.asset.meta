@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 256c3b0558479c048b03710e9cdff710
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\u01B3P\0t\u0240\00\x17\u027D\x7F"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Geometry/PickingMesh/6117.asset
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Geometry/PickingMesh/6117.asset
+  uploadId: 489201

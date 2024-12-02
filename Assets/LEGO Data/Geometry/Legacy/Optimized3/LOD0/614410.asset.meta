@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29ebeb8bfec5d46e7a5ee784de721b66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Geometry/Legacy/Optimized3/LOD0/614410.asset
+  uploadId: 489201

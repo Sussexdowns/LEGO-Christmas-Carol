@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1a8fbca248867a649ba2e71c9552fdb9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\0\u02EA\0h\0F\0*~Y%\u07F0"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Game/Managers/InputManager.cs
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Scripts/Game/Managers/InputManager.cs
+  uploadId: 489201

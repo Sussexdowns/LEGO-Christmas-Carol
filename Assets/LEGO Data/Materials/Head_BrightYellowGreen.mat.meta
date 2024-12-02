@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 52ed5e1236e6241c38114e547cac1cdb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\u07A5!cnBC\x11\u4147\u0281"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Head_BrightYellowGreen.mat
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Head_BrightYellowGreen.mat
+  uploadId: 489201

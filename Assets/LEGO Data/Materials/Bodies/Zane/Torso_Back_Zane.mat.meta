@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb4a4934cf58a4e25bad401c0c413df8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\0\0C\0\0J.\0\u0684@\x14\u04F0"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Torso_Back_Zane.mat
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Zane/Torso_Back_Zane.mat
+  uploadId: 489201

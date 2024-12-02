@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dec0a645588d04d8bb0ca99f70ffa743
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\0\0T\0\u0600\0\0\x1A\0\a\0z"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Explode.prefab
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Explode.prefab
+  uploadId: 489201

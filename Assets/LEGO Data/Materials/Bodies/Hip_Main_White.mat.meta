@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0e45e535902144fbba3c2117d5dd21e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\0S\t\x12D\0\0\xD2q]\u0752"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hip_Main_White.mat
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO Data/Materials/Bodies/Hip_Main_White.mat
+  uploadId: 489201

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 193f2c47f5132467f97398ef0049802e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "\0\U000C2D1F1Bv\07\0\0"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Rotate.prefab
+  uploadId: 489201
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179847
+  packageName: "LEGO\xAE Microgame"
+  packageVersion: 3.0.0
+  assetPath: Assets/LEGO/Prefabs/LEGO Behaviour Bricks/Rotate.prefab
+  uploadId: 489201
