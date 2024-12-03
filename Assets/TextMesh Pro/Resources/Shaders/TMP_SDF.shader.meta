@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 68e6db2ebdc24f95958faec2be5558d6
+guid: 0634d9e0b15384e2b921ea13aef36c06
 ShaderImporter:
   externalObjects: {}
   defaultTextures: []
@@ -7,7 +7,3 @@ ShaderImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: "\0n\0\u26EC\U00119678\uAB2BU\0m"

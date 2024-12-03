@@ -8,7 +8,6 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Catamaran
   fontNames:
   - Catamaran
   fallbackFontReferences: []
@@ -20,10 +19,3 @@ TrueTypeFontImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: "LEGO\xAE Microgame"
-  packageVersion: 3.0.0
-  assetPath: Assets/TextMesh Pro/Fonts/Catamaran-Bold.ttf
-  uploadId: 489201

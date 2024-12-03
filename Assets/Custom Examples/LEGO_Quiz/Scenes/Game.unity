@@ -1100,7 +1100,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Correct
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f47a8cf1fad34beab606fd3d3d61472, type: 2}
   m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
     type: 2}
   m_fontSharedMaterials: []
@@ -1167,7 +1167,7 @@ MonoBehaviour:
   m_margin: {x: 18, y: 0, z: -60.92073, w: -1.825058}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!114 &685010801
@@ -2185,7 +2185,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Wrong
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f47a8cf1fad34beab606fd3d3d61472, type: 2}
   m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
     type: 2}
   m_fontSharedMaterials: []
@@ -2252,7 +2252,7 @@ MonoBehaviour:
   m_margin: {x: 18, y: 0, z: -60.92073, w: -1.825058}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!114 &1588058827
@@ -2821,8 +2821,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Question
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 888ba07f3ecb44058a8e8c4ac115b08c, type: 2}
-  m_sharedMaterial: {fileID: -2082054820972272263, guid: 888ba07f3ecb44058a8e8c4ac115b08c,
+  m_fontAsset: {fileID: 11400000, guid: 8f47a8cf1fad34beab606fd3d3d61472, type: 2}
+  m_sharedMaterial: {fileID: -1835355479430514229, guid: 8f47a8cf1fad34beab606fd3d3d61472,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2982,11 +2982,6 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3247599682124184504, guid: 6aac4da02d36f4e54b4171fa9c234058,
         type: 3}
-      propertyPath: m_Navigation.m_Mode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3247599682124184504, guid: 6aac4da02d36f4e54b4171fa9c234058,
-        type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 33453234}
@@ -3003,11 +2998,6 @@ PrefabInstance:
     - target: {fileID: 3945676314635229161, guid: 6aac4da02d36f4e54b4171fa9c234058,
         type: 3}
       propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3945676314635229161, guid: 6aac4da02d36f4e54b4171fa9c234058,
-        type: 3}
-      propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3945676314635229161, guid: 6aac4da02d36f4e54b4171fa9c234058,

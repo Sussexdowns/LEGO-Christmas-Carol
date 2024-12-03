@@ -5,17 +5,3 @@ TextScriptImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: "\0\0.tz\0I\x01\0\0\0X\\\u5509"
-  packageVersion: 3.0.0
-  assetPath: Assets/TextMesh Pro/Sprites/EmojiOne_License.txt
-  uploadId: 489201
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: "LEGO\xAE Microgame"
-  packageVersion: 3.0.0
-  assetPath: Assets/TextMesh Pro/Sprites/EmojiOne_License.txt
-  uploadId: 489201

@@ -1,13 +1,7 @@
 fileFormatVersion: 2
-guid: d930090c0cd643c7b55f19a38538c162
-ShaderImporter:
+guid: 1151b9aadcc724fb1afc51a6d7a20d12
+ShaderIncludeImporter:
   externalObjects: {}
-  defaultTextures: []
-  nonModifiableTextures: []
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: "\0\x03\0\0m4|[\U00151E98\0\x1C&"
